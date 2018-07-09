@@ -23,11 +23,13 @@
 
 8장 - 김연신
 
+***
 ## 2. 러닝 텐서플로 (dir: Tensorflow)
 
 책: http://www.hanbit.co.kr/store/books/look.php?p_code=B2658309536
 
 
+***
 ## 3. 파이썬과 케라스로 배우는 강화학습 (dir: ReinforcementLearning)
 
 책: http://wikibook.co.kr/reinforcement-learning/
