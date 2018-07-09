@@ -1,5 +1,5 @@
 # Study
-
+***
 ## 1. 밑바닥부터 시작하는 딥러닝: 파이썬으로 익히는 딥러닝 이론과 구현 (dir: Python)
 
 책: http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198
