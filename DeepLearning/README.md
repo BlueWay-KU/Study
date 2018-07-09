@@ -7,9 +7,9 @@
 참고 코드: https://github.com/WegraLee/deep-learning-from-scratch
 
 
-1장 - 김연신
+> 1. 1장 - 김연신
 
-2장 - 조익진
+> 2. 2장 - 조익진
 
 3장 - 황인재
 
