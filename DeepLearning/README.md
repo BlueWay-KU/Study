@@ -35,3 +35,5 @@
 책: http://wikibook.co.kr/reinforcement-learning/
 
 참고 코드: https://github.com/rlcode/reinforcement-learning-kr
+
+***
