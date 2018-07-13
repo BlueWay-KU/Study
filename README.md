@@ -37,3 +37,8 @@
 참고 코드: https://github.com/rlcode/reinforcement-learning-kr
 
 ***
+## 4. 강화학습 첫걸음 (dir:DeepReinforcementLearning)
+
+책: http://www.hanbit.co.kr/store/books/look.php?p_code=B9929859785
+
+***
